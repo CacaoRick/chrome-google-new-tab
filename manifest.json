@@ -1,0 +1,9 @@
+{
+  "name": "Google New Tab",
+  "description": "Make new tab redirect to google.com",
+  "version": "1.0",
+  "manifest_version": 2,
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
